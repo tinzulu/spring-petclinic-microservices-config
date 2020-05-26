@@ -1,5 +1,5 @@
 ﻿spring:
-  profiles: default
+  profiles: mysql
 eureka:
   instance:
     # enable to register multiple app instances with a random server port

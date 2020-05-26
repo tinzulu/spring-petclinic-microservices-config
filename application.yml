@@ -28,7 +28,7 @@ management.endpoints.web.exposure.include: "*"
 
 # Temporary hack required by the Spring Boot 2 / Spring Cloud Finchley branch
 # Waiting issue https://github.com/spring-projects/spring-boot/issues/13042
-spring.cloud.refresh.refreshable: false
+spring.cloud.refresh.refreshable: true
 
 
 # Logging
